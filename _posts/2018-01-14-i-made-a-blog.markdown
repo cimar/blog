@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "I made a blog!"
+date:   2018-01-14 12:30:00 -0800
+categories: jekyll profile wip
+---
+Welcome to my attempt at a personal blog, which is also a journalism and design portfolio. I've collected some of my best [published][published] writing and visualizations in back-dated posts. I also post about unfinished projects under the [wip][wip] tag. 
+
+For more about me, [visit my website][here].
+
+[here]: https://rosiecima.com
+[published]: #
+[wip]: {{site.baseurl}}/category/wip.html
+
